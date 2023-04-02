@@ -1,7 +1,5 @@
 package pl.coderslab.users;
 
-import pl.coderslab.warsztat3.User;
-import pl.coderslab.warsztat3.UserDao;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
